@@ -7,6 +7,9 @@ https://github.com/LondheShubham153/kubestarter/tree/main/Kubeadm_Installation_S
 <img width="1787" height="823" alt="Screenshot 2025-11-12 073755" src="https://github.com/user-attachments/assets/91c54e4b-ffaf-4ccc-b6f1-e81faf76d400" />
 
 
+### Recording
+https://drive.google.com/drive/folders/1E49eW7S1qa4Y76ixPenNczGXDRSairJ6?usp=sharing
+
 ### Step 1: Create the Namespace
 
 First, create the new namespace on your cluster:
