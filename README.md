@@ -3,7 +3,8 @@
 https://github.com/LondheShubham153/kubestarter/tree/main/Kubeadm_Installation_Scripts_and_Documentation
 
 ### Security Group Inbound Rules
-![This is my project screenshot](./images/securitygroup.jpg)
+<img width="1905" height="848" alt="Screenshot 2025-11-12 073346" src="https://github.com/user-attachments/assets/2b21de8f-26c7-4911-a409-17bdadc69715" />
+
 
 ### Step 1: Create the Namespace
 
